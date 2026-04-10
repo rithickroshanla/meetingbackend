@@ -1,0 +1,6 @@
+django>=4.2,<5.0
+gunicorn
+whitenoise
+scikit-learn
+numpy
+pandas
